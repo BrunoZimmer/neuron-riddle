@@ -1,0 +1,230 @@
+.content-background{
+    background-color: rgba(0, 0, 0, 0.85);
+}
+
+.back-img{
+    background-image: url("./../../midia/imgs/background-pattern.png");
+    
+}
+
+.img-center{
+    margin-top:25px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%;
+}
+
+.img-nivel-center{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+}
+
+.div-img{
+    text-align: center
+}
+
+.div-main{
+    margin: auto auto;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.div-main a{
+    color: rgb(89, 168, 137);
+}
+
+.div-main h1{
+    text-align: left;
+    font-size: 26pt;
+}
+
+.div-main p{
+    text-align: left;
+    font-size: 12pt;
+}
+
+.logo{
+    max-height: 30px;
+}
+
+.dark-green{
+    background-color: #001010;
+}
+
+.drop-dark-green {
+    background-color: #001010;
+    color: #aaaaaa;
+}
+
+.drop-dark-green a:hover{
+    background-color: #aaaaaa;
+    color: #001010;
+}
+
+
+.footer-black{
+    background-color: #001010;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+.footer-black ul{
+    list-style-type: none;
+}
+
+.footer-black p{
+    margin: 2px;
+}
+
+.footer-black a{
+    color:  rgb(89, 168, 137);
+}
+
+.btn-neuron{
+    background-color: rgb(89,168,137);
+    color: #000000;
+}
+
+.social-icon img{
+    max-width: 28px;
+}
+
+.title-nav{
+    text-align: center;
+    color:white;
+}
+
+.nivel-title h1{
+    color: white;
+    text-align: center;
+}
+
+.div-midia-nivel{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.div-midia-nivel img{
+    max-width: 80%;
+}
+
+.div-midia-nivel video{
+    max-width: 80%;
+}
+
+.div-conteudo-nivel{
+    text-align: center;
+    color: white;
+    font-size: 12pt;
+}
+
+.div-conteudo-nivel p{
+    text-align: center;
+    color: white;
+    font-size: 12pt;
+}
+
+.div-resposta-nivel{
+    text-align: center;
+}
+
+.div-caracteres{
+    text-align: center;
+    color: rgb(89, 168, 137);
+    font-size: 10pt;
+}
+
+.div-conteudo-formato-resposta{
+    text-align: center;
+    color: #ffffff;
+    font-size: 10pt;
+}
+
+.content-green{
+    color: #55ff00;
+}
+
+.content-yellow{
+    color: #ffff55;
+}
+
+.content-pink{
+    color: palevioletred;
+}
+
+.content-orange{
+    color: orange;
+}
+
+.content-blue{
+    color: aqua;
+}
+
+.btn-neuron-verde{
+    background-color: #55ff00;
+    color: #000000;
+}
+
+.btn-neuron-amarelo{
+    background-color: #ffff55;
+    color: #000000;
+}
+
+.btn-neuron-rosa{
+    background-color: palevioletred;
+    color: #000000;
+}
+
+.btn-neuron-laranja{
+    background-color: orange;;
+    color: #000000;
+}
+
+.btn-neuron-azul{
+    background-color: aqua;
+    color: #000000;
+}
+
+.btn-neuron-red{
+    background-color: red;
+    color: #000000;
+}
+
+.bold-green{
+    font-weight: bold;
+    color: rgb(89, 168, 137);
+}
+
+.too-large{
+    width: 80%;
+}
+
+.champion-row{
+    margin-top: 15px;
+}
+
+.champion-img{
+    max-width: 50%;
+    max-height: 150px;
+    text-align: center;
+    margin: auto auto;
+}
+
+.champion-name {    
+    text-align: center;
+}
+
+.facil-text{
+    color:#55ff00;
+}
+
+.moderado-text{
+    color: yellow;
+}
+
+.dificil-text{
+    color: red;
+}
